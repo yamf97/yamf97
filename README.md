@@ -47,6 +47,6 @@ A Mac app that brings finding, reading, and writing papers into one place. I'm w
 - Plain-language notes from the lecture subtitles, plus a dated Q&A log
 - A blind comparison of five open-weight models writing the same note (the smallest, a 27B model, did best)
 - Next: a study-group Q&A database combining RAG, an ontology, and fine-tuning, served over MCP (design stage)
-- 
+  
 My long-term research interest is child poverty and social policy. Most repos are private, so feel free to reach out.
  
