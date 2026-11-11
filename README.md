@@ -21,9 +21,7 @@
 
 #### 그 밖에
 계량경제학(Angrist & Pischke)과 Agent AI 강의 스터디 노트·발표 자료, 영어 쉐도잉 앱을 만들고 있습니다.
-
 전에 수학 커뮤니티 자료로 AI 학습 도구를 만들자는 제안서를 함께 쓴 적이 있습니다. 실행하지는 않았지만, 지금 스터디 작업은 그때 생각에서 시작됐습니다.
-
 대부분 비공개 저장소입니다. 궁금한 게 있으면 연락 주세요.
 
 Python · JavaScript/TypeScript · Electron · Claude/Gemini API · MCP · RAG · Obsidian · LaTeX
