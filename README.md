@@ -1,6 +1,6 @@
 ## 장인후 (Inhu Chang)
 
-사회복지를 공부하고 사회적기업 재단에서 10년 정도 일했습니다. 지금은 컴퓨터공학을 공부하면서, 공부하다 막히는 지점을 AI로 풀어보는 도구를 만들고 있습니다. 관심 있는 연구 주제는 아동빈곤과 사회정책입니다.
+사회복지를 공부하고 사회적기업 재단에서 15년 정도 일했습니다. 지금은 컴퓨터공학을 공부하면서, 공부하다 막히는 지점을 AI로 풀어보는 도구를 만들고 있습니다. 관심 있는 연구 주제는 아동빈곤과 사회정책입니다.
 
 ### 요즘 하는 일
 
@@ -31,4 +31,4 @@ Python · JavaScript/TypeScript · Electron · Claude/Gemini API · MCP · RAG �
 
 ---
 
-**Inhu Chang.** I worked in social welfare for about ten years and now study computer science. My main project is irum, a Mac app that brings finding, reading, and writing papers into one place. It grew out of my earlier close-reading tool, Reading Companion, and I'm wrapping up its first version now. The paper library it shares across those three steps is also exposed over MCP, so coding agents like Claude Code can search and read it. I also keep study notes on Strang's linear algebra lectures, along with a Q&A log and a blind comparison of open-weight models. Next up is a study-group Q&A database with RAG, an ontology, and fine-tuning. My research interest is child poverty and social policy. Most repos are private, so feel free to reach out.
+**Inhu Chang.** I worked in social welfare for about fifteen years and now study computer science. My main project is irum, a Mac app that brings finding, reading, and writing papers into one place. It grew out of my earlier close-reading tool, Reading Companion, and I'm wrapping up its first version now. The paper library it shares across those three steps is also exposed over MCP, so coding agents like Claude Code can search and read it. I also keep study notes on Strang's linear algebra lectures, along with a Q&A log and a blind comparison of open-weight models. Next up is a study-group Q&A database with RAG, an ontology, and fine-tuning. My research interest is child poverty and social policy. Most repos are private, so feel free to reach out.
