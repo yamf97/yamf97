@@ -1,0 +1,34 @@
+## 장인후 (Inhu Chang)
+
+사회복지를 공부하고 사회적기업 재단에서 10년 정도 일했습니다. 지금은 컴퓨터공학을 공부하면서, 공부하다 막히는 지점을 AI로 풀어보는 도구를 만들고 있습니다. 관심 있는 연구 주제는 아동빈곤과 사회정책입니다.
+
+### 요즘 하는 일
+
+**이룸 (irum)**
+논문을 찾고, 읽고, 쓰는 일을 한 프로그램에서 하는 Mac 앱입니다. 지금 초기 버전을 마무리하고 있습니다.
+처음에는 논문을 정독하는 도구(Reading Companion)를 따로 만들었습니다. 그런데 쓰다 보니 찾은 논문, 읽으며 남긴 메모, 쓰는 원고가 서로 떨어져 있는 게 문제였습니다. 그래서 그 도구를 바탕으로 세 가지를 하나로 묶은 것이 이룸입니다.
+
+- 찾기: 씨앗 논문에서 관련 논문을 넓혀 갑니다(OpenAlex, KCI). Zotero 서재도 불러옵니다.
+- 읽기: PDF에서 본문·수식·표를 뽑아 원문과 번역을 나란히 놓고 읽으며 메모합니다.
+- 쓰기: LaTeX 원고를 편집·컴파일하고, AI 채팅과 음성 받아쓰기, 발표 모드도 넣었습니다.
+- 세 화면이 논문 저장소 하나를 같이 씁니다. 이 서재를 MCP 서버로 열어 두어서, 앱 밖의 Claude Code나 Codex도 내 논문을 찾고 읽는 도구로 쓸 수 있습니다.
+- 작업 폴더마다 지시문과 기억을 두고 AI에게 일을 맡기는데, AI가 도구를 쓸 때마다 허락을 받게 했습니다.
+
+**스트렝 선형대수 스터디**
+스트렝 교재와 MIT 강의로 스터디를 하고 있습니다. 강의 자막을 쉬운 노트로 바꾸고, 공부하면서 생긴 질문과 답을 날짜별로 모으고 있습니다. 같은 노트를 오픈 웨이트 모델 다섯 개에게 써보게 하고 이름을 가린 채 비교해 보기도 했는데, 가장 작은 27B 모델이 제일 나았습니다.
+
+다음에는 스터디 녹화를 전사해서 자료로 만들고, 스터디와 수학 커뮤니티에서 자주 나오는 질문을 모아 답변 데이터베이스를 만들 생각입니다. 이걸 RAG와 온톨로지로 묶고, 파인튜닝까지 해서 MCP로 LLM에 붙여보려고 합니다. 아직 설계 단계입니다.
+
+**그 밖에**
+계량경제학(Angrist & Pischke)과 Agent AI 강의 스터디 노트·발표 자료, 영어 쉐도잉 앱을 만들고 있습니다.
+
+전에 수학 커뮤니티 자료로 AI 학습 도구를 만들자는 제안서를 함께 쓴 적이 있습니다. 실행하지는 않았지만, 지금 스터디 작업은 그때 생각에서 시작됐습니다.
+
+대부분 비공개 저장소입니다. 궁금한 게 있으면 연락 주세요.
+
+Python · JavaScript/TypeScript · Electron · Claude/Gemini API · MCP · RAG · Obsidian · LaTeX
+텍사스주 텍사캐나
+
+---
+
+**Inhu Chang.** I worked in social welfare for about ten years and now study computer science. My main project is irum, a Mac app that brings finding, reading, and writing papers into one place. It grew out of my earlier close-reading tool, Reading Companion, and I'm wrapping up its first version now. The paper library it shares across those three steps is also exposed over MCP, so coding agents like Claude Code can search and read it. I also keep study notes on Strang's linear algebra lectures, along with a Q&A log and a blind comparison of open-weight models. Next up is a study-group Q&A database with RAG, an ontology, and fine-tuning. My research interest is child poverty and social policy. Most repos are private, so feel free to reach out.
