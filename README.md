@@ -30,21 +30,22 @@ Python · JavaScript/TypeScript · Electron · Claude/Gemini API · MCP · RAG �
 
 ---
 
+### In English
+
 #### Inhu Chang.
-
+ 
 I spent about fifteen years in social welfare, both in the field and at a social enterprise foundation. AI will soon reach social welfare work too. What will matter most, I think, are tools grounded in trustworthy knowledge that help people use AI well. So I now study computer science, and I build those tools for my own study and research first.
-
-irum
-
+ 
+#### irum
 A Mac app that brings finding, reading, and writing papers into one place. I'm wrapping up its first version now. It grew out of my earlier close-reading tool, Reading Companion.
-
-Find: expand from a seed paper to related work (OpenAlex, KCI) and import a Zotero library
-Read: original and translation side by side, with notes
-Write: LaTeX editing and compiling, with AI chat
-One shared paper library, also exposed over MCP so agents like Claude Code can search and read it
-Strang linear algebra study
-Plain-language notes from the lecture subtitles, plus a dated Q&A log
-A blind comparison of five open-weight models writing the same note (the smallest, a 27B model, did best)
-Next: a study-group Q&A database combining RAG, an ontology, and fine-tuning, served over MCP (design stage)
-
+ 
+- **Find**: expand from a seed paper to related work (OpenAlex, KCI) and import a Zotero library
+- **Read**: original and translation side by side, with notes
+- **Write**: LaTeX editing and compiling, with AI chat
+- One shared paper library, also exposed over MCP so agents like Claude Code can search and read it
+#### Strang linear algebra study
+- Plain-language notes from the lecture subtitles, plus a dated Q&A log
+- A blind comparison of five open-weight models writing the same note (the smallest, a 27B model, did best)
+- Next: a study-group Q&A database combining RAG, an ontology, and fine-tuning, served over MCP (design stage)
 My long-term research interest is child poverty and social policy. Most repos are private, so feel free to reach out.
+ 
