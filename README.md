@@ -1,6 +1,6 @@
 ## 장인후 (Inhu Chang)
 
-사회복지를 공부하고 사회적기업 재단에서 15년 정도 일했습니다. 지금은 컴퓨터공학을 공부하면서, 공부하다 막히는 지점을 AI로 풀어보는 도구를 만들고 있습니다. 관심 있는 연구 주제는 아동빈곤과 사회정책입니다.
+사회복지를 공부하고 사회복지 현장과 사회적기업 재단에서 15년 정도 일했습니다. 앞으로 사회복지 영역에서도 AI를 쓰는 일이 많아질 텐데, 그때 필요한 것은 AI를 쓸 줄 아는 것보다 믿을 수 있는 지식을 바탕으로 사람이 AI를 잘 활용하도록 돕는 도구라고 생각합니다. 그래서 지금은 컴퓨터공학을 공부하면서, 잘 정리된 지식 데이터베이스 위에서 작동하는 AI 도구를 제 공부와 연구에 먼저 만들어 쓰고 있습니다. 장기적으로는 이를 아동빈곤과 사회정책 연구로 이어가고 싶습니다.
 
 ### 요즘 하는 일
 
@@ -31,4 +31,4 @@ Python · JavaScript/TypeScript · Electron · Claude/Gemini API · MCP · RAG �
 
 ---
 
-**Inhu Chang.** I worked in social welfare for about fifteen years and now study computer science. My main project is irum, a Mac app that brings finding, reading, and writing papers into one place. It grew out of my earlier close-reading tool, Reading Companion, and I'm wrapping up its first version now. The paper library it shares across those three steps is also exposed over MCP, so coding agents like Claude Code can search and read it. I also keep study notes on Strang's linear algebra lectures, along with a Q&A log and a blind comparison of open-weight models. Next up is a study-group Q&A database with RAG, an ontology, and fine-tuning. My research interest is child poverty and social policy. Most repos are private, so feel free to reach out.
+**Inhu Chang.** I spent about fifteen years in social welfare, both in the field and at a social enterprise foundation. AI will soon reach social welfare work too, and I think what matters most is tools grounded in trustworthy knowledge that help people use AI well. So I now study computer science and build such tools for my own study and research first. My main project is irum, a Mac app that brings finding, reading, and writing papers into one place. It grew out of my earlier close-reading tool, Reading Companion, and I'm wrapping up its first version now. The paper library it shares across those three steps is also exposed over MCP, so coding agents like Claude Code can search and read it. I also keep study notes on Strang's linear algebra lectures, along with a Q&A log and a blind comparison of open-weight models. Next up is a study-group Q&A database with RAG, an ontology, and fine-tuning. My research interest is child poverty and social policy. Most repos are private, so feel free to reach out.
