@@ -23,7 +23,7 @@
 계량경제학(Angrist & Pischke)과 Agent AI 강의 스터디 노트·발표 자료, 영어 쉐도잉 앱을 만들고 있습니다.
 전에 수학 커뮤니티 자료로 AI 학습 도구를 만들자는 제안서를 함께 쓴 적이 있습니다. 실행하지는 않았지만, 지금 스터디 작업은 그때 생각에서 시작됐습니다.
 #### 공개해 둔 것
-- [ai-verification-notes](https://github.com/yamf97/ai-verification-notes): AI가 학술·교육 자료를 원문에 근거해 말하는지 확인하는 방법. 직접 재고 고친 사례 9편과 원칙
+- [ai-verification-notes](https://github.com/yamf97/ai-verification-notes): AI가 학술·교육 자료를 원문에 근거해 말하는지 확인하는 방법. 직접 재고 고친 사례 10편과 원칙
 - [lecture-note-bench](https://github.com/yamf97/lecture-note-bench): 강의 자막으로 노트를 만들 때 오픈 웨이트 모델 5개를 블라인드로 비교한 실험과 검사기
 나머지는 대부분 비공개 저장소입니다. 궁금한 게 있으면 연락 주세요.
  
@@ -51,4 +51,4 @@ A Mac app that brings finding, reading, and writing papers into one place. I'm w
 - A blind comparison of five open-weight models writing the same note (the smallest, a 27B model, did best)
 - Next: a study-group Q&A database combining RAG, an ontology, and fine-tuning, served over MCP (design stage)
   
-My long-term research interest is child poverty and social policy. Public write-ups: [ai-verification-notes](https://github.com/yamf97/ai-verification-notes) (grounding rules and nine measured cases) and [lecture-note-bench](https://github.com/yamf97/lecture-note-bench) (a blind comparison of five open-weight models). Most other repos are private, so feel free to reach out.
+My long-term research interest is child poverty and social policy. Public write-ups: [ai-verification-notes](https://github.com/yamf97/ai-verification-notes) (grounding rules and ten measured cases) and [lecture-note-bench](https://github.com/yamf97/lecture-note-bench) (a blind comparison of five open-weight models). Most other repos are private, so feel free to reach out.
